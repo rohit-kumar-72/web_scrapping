@@ -5,7 +5,7 @@
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd product-scraper
+   cd web_scrapping
    ```
 
 2. **Install the required libraries:**
